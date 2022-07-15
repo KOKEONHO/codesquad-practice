@@ -15,8 +15,7 @@ public class NumberBaseballGame {
 
 		// 서로 다른 3개의 숫자로 이루어진 임의의 세자릿 수 정하기 (100 ~ 999)
 		String answer = createRandomNumber();
-		boolean check = true;
-		while (check) {
+		while (true) {
 			bw.write("숫자를 입력해주세요 ex)123 : ");
 			bw.flush();
 
