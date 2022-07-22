@@ -1,4 +1,4 @@
-package practice;
+package solvedac_silver_5;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
